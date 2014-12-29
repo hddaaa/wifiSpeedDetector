@@ -1,0 +1,4 @@
+wifiSpeedDetector
+=================
+
+an ios project
